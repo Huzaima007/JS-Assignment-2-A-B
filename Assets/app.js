@@ -692,11 +692,20 @@
 
 // console.log(dropdown);
 
-
-
 // -----------Chapter 17 to 20-----------
+
 // Question 1
+
+// var array = [[]];
+
 // Question 2
+
+var matrix = [
+  [0, 1, 2, 3],
+  [1, 0, 1, 2],
+  [2, 1, 0, 1],
+];
+
 // Question 3
 // Question 4
 // Question 5
